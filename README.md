@@ -1,2 +1,2 @@
 # MyGit
-  code tren GitHub
+MacGit
