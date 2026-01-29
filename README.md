@@ -1,2 +1,2 @@
 # MyGit
-MacGit
+Edit on GitHub
