@@ -1,3 +1,3 @@
 
-# MyGit
+# MyMac
 Edit on GitHub)
